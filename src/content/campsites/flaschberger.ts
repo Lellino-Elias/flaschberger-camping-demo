@@ -20,8 +20,7 @@ const flaschberger: CampsiteConfig = {
   brandKind: "Camping & Ferienwohnungen",
   regionLong: "Nassfeld · Pressegger See · Kärnten",
 
-  theme: "alpin",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Camping, Tennis & Bergblick im Gailtal",
   claimEmphasis: "Bergblick im Gailtal",
